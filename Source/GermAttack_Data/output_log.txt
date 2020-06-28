@@ -1,0 +1,100 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   24.21.13.9907
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.114 seconds
+Platform assembly: C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Luke\Desktop\hhh\GermAttack\Source\GermAttack_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'StartButton') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'QuitButton') is missing!
+ 
+(Filename:  Line: 1755)
+
+UnloadTime: 2.121142 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.173423 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 369.
+Total: 0.167253 ms (FindLiveObjects: 0.016579 ms CreateObjectMapping: 0.012921 ms MarkObjects: 0.125805 ms  DeleteObjects: 0.011702 ms)
+
+The referenced script on this Behaviour (Game Object 'QuitButton') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'StartButton') is missing!
+ 
+(Filename:  Line: 1755)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.261119 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.728014 ms (FindLiveObjects: 0.009996 ms CreateObjectMapping: 0.008533 ms MarkObjects: 0.107276 ms  DeleteObjects: 0.602209 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.268677 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 369.
+Total: 0.489081 ms (FindLiveObjects: 0.011215 ms CreateObjectMapping: 0.008533 ms MarkObjects: 0.102887 ms  DeleteObjects: 0.365957 ms)
+
+The referenced script on this Behaviour (Game Object 'QuitButton') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'StartButton') is missing!
+ 
+(Filename:  Line: 1755)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.330605 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 1.049111 ms (FindLiveObjects: 0.014384 ms CreateObjectMapping: 0.014384 ms MarkObjects: 0.140434 ms  DeleteObjects: 0.879908 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.218209 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 369.
+Total: 0.134582 ms (FindLiveObjects: 0.011459 ms CreateObjectMapping: 0.009020 ms MarkObjects: 0.104838 ms  DeleteObjects: 0.009020 ms)
+
+The referenced script on this Behaviour (Game Object 'QuitButton') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'StartButton') is missing!
+ 
+(Filename:  Line: 1755)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.252586 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.718262 ms (FindLiveObjects: 0.009996 ms CreateObjectMapping: 0.008289 ms MarkObjects: 0.095817 ms  DeleteObjects: 0.603915 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: fc8 -> priority: 1 
+  Thread -> id: 25e4 -> priority: 1 

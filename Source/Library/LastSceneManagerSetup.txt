@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/rothw/Downloads/mainmenu/Assets/mainmenu.unity
+  isLoaded: 1
+  isActive: 1

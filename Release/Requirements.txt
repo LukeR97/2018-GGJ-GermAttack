@@ -1,0 +1,5 @@
+Windows Vista or higher
+Core 2 Duo or Athlon X2 or higer
+2gb RAM
+40mb available
+DirectX 3.0 or higher
